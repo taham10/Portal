@@ -110,7 +110,7 @@ E-Commerce-Order-Management-Portal/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/E-Commerce-Order-Management-Portal.git
+git clone https://github.com/taham10/E-Commerce-Order-Management-Portal.git
 ```
 
 ### Step 2: Navigate to the Project Directory
